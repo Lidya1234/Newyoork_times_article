@@ -103,6 +103,16 @@
 	font-size: 25px;
 }
 
+.para a {
+	color: blue;
+	text-decoration: underline;
+}
+
+.para a:hover {
+	color: rgb(52, 52, 216);
+	text-decoration: none;
+}
+
 .mid {
 	padding-left: 28%;
 }
@@ -123,4 +133,10 @@ hr {
 	height: 1px;
 	margin: 2% 20%;
 	background-color: rgb(95, 92, 92);
+}
+
+.grid1 {
+	display: grid;
+	align-items: center;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
 }
