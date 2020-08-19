@@ -134,14 +134,12 @@
 	margin: 2% 20%;
 	background-color: rgb(95, 92, 92);
 }
-.section-3
-{
+.section-3 {
 	margin: 1% 15% 1% 15%;
-	width: 70%;	
+	width: 70%;
 }
 
 .grid1 {
-	
 	display: grid;
 	align-items: center;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -152,12 +150,44 @@
 	width: 100%;
 }
 .griditem {
-	height:100%;
-	width:100%;
+	height: 100%;
+	width: 100%;
 	padding-top: 2%;
 }
-.section-3 hr
-{
- margin-left:0;
- width:8%;
+.section-3 hr {
+	margin-left: 0;
+	width: 8%;
+}
+
+.cosmos {
+	width: 100%;
+	Height: 50%;
+}
+
+.vid-para a {
+	text-decoration: underline;
+}
+.vid-para a:hover {
+	text-decoration: none;
+}
+
+.aside {
+	position: absolute;
+	top: 1700px;
+	right: 250px;
+	width: 13%;
+}
+
+.aside h2 {
+	font-size: 18px;
+}
+
+.aside a {
+	font-size: 14px;
+	padding-top: 3%;
+	width: 100%;
+}
+
+.aside div {
+	margin-bottom: 2%;
 }
