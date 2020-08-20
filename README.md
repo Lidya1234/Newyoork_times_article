@@ -1,16 +1,16 @@
-# 
+# New York Times Article
 
 First CSS project of Lidya Ghebreigziabher and Abhigyan Mahanta
 
-<img src="icons/mintsignup.PNG" alt="intuitsignup">
+<img src="images/projectpage.PNG" alt="NewYork_Times_Article">
 
 Additional description about the project and its features.
 
-This is a project to demonstrate the exisiting knowledge of HTML and CSS. It is a collaborative project which recreates the Intuit Signup Page.
+This is a project to demonstrate the exisiting knowledge of HTML and CSS. It is a collaborative project which recreates a New York Times article.
 
-<i>Built With HTML, CSS, GIT, ATOM and VSCODE</i>
+<i>Built With HTML5, CSS3, GIT, and VSCODE</i>
 
-Live Demo : https://intuitsignup.netlify.app/
+Live Demo : https://new-york-article.netlify.app/
 
 <h1>Getting Started</h1>
 
@@ -22,7 +22,8 @@ Prerequisites Text editor,Github profile and Git.
 
 👤 Author1
 
-Github: @ajkacca457 Twitter: @ajkacca Linkedin: https://www.linkedin.com/in/avijit-karmaker-8738a54a/
+Github: @Lidya1234 Linkedin: https://www.linkedin.com/in/lidya-ghebreigziabher-4a94391aa/
+
 
 👤 Author2
 
@@ -36,4 +37,4 @@ Show your support Give a ⭐️ if you like this project!
 
 Acknowledgments Hat tip to anyone whose code was used Inspiration etc
 
-📝 License This project is a collaboration project of microverse students. All rights are reserved for Avijit and Abhigyan.
+📝 License This project is a collaboration project of microverse students. All rights are reserved for Lidya and Abhigyan.
