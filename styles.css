@@ -144,6 +144,9 @@
 	align-items: center;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	grid-gap: 5px;
+	background-image: url("images/wholegrid.png");
+	background-repeat: no-repeat;
+	background-size:contain;
 }
 
 .grid1 img {
@@ -153,6 +156,15 @@
 	height: 100%;
 	width: 100%;
 	padding-top: 2%;
+	margin-top:100%;
+}
+.griditem1
+{
+	height: 100%;
+	width: 100%;
+	padding-top: 2%;
+	margin-top:20%;
+
 }
 .section-3 hr {
 	margin-left: 0;
@@ -176,6 +188,7 @@
 	top: 1700px;
 	right: 250px;
 	width: 13%;
+	
 }
 
 .aside h2 {
