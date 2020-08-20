@@ -265,17 +265,35 @@
 	padding-left: 50%;
 	padding-top: 10px;
 }
-.ftr-hd {
-	justify-content: space-between;
+
+.ftr
+{
+padding:1% 5% 1% 5%;
 }
-.ftr-hd img {
+.ftr-hd
+{
+	justify-content:space-between;
+}
+.ftr-hd img
+{
 	width: 25%;
 	margin: 0 auto;
 }
-.ftr-links {
+.ftr-links
+{
 	justify-content: space-between;
-	padding: 1% 10% 1% 10%;
+
 }
-.ftr-links {
+.ftr-lists
+{
 	text-decoration: none;
+	list-style-type: none;
+	font-size:15px;
+	line-height:1.5;
+}
+.ftr-crt
+{
+	display:grid;
+	grid-template-columns: 3fr repeat(9,1fr);
+	margin:1% 5% 1% 5%;
 }
