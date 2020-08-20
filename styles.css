@@ -8,7 +8,7 @@
 
 * a:hover {
 	cursor: pointer;
-	text-decoration:underline;
+	text-decoration: underline;
 }
 
 .flex {
@@ -119,6 +119,13 @@ iframe {
 	flex: 3;
 }
 
+.block a,
+.popular p {
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 5%;
+}
+
 .grey {
 	color: grey;
 	font-size: 14px;
@@ -128,7 +135,7 @@ iframe {
 }
 
 .para {
-	font-size: 25px;
+	font-size: 22px;
 }
 
 .para a {
@@ -177,10 +184,8 @@ iframe {
 	background-size: contain;
 }
 
-.grid1 img {
-	width: 100%;
-}
 .griditem {
+	margin-top: 100%;
 	height: 90%;
 	width: 90%;
 	padding-top: 2%;
@@ -189,8 +194,32 @@ iframe {
 	height: 100%;
 	width: 100%;
 	padding-top: 2%;
-	margin-top: 60%;
+	margin-top: 30%;
 }
+
+.griditem2 {
+	height: 80%;
+	width: 80%;
+	margin-top: 2%;
+}
+
+.griditem2 a {
+	color: grey;
+	float: right;
+	font-size: 10px;
+}
+
+.griditem2 p {
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+}
+
+.griditem2 date {
+	font-size: 14px;
+	color: grey;
+}
+
 .section-3 hr {
 	margin-left: 0;
 	width: 8%;
@@ -221,9 +250,9 @@ iframe {
 
 .aside {
 	position: absolute;
-	top: 1700px;
-	right: 250px;
-	width: 13%;
+	top: 165%;
+	left: 75%;
+	width: 15%;
 }
 
 .aside h2 {
@@ -252,6 +281,7 @@ iframe {
 	grid-template-columns: 1fr 1fr 1fr;
 	align-items: center;
 	grid-gap: 1%;
+	margin-bottom: 4%;
 }
 .popular {
 	flex: 1;
@@ -306,30 +336,25 @@ iframe {
 	line-height: 1.5;
 }
 
-.ftr-links img
-{
-height:17px;
-width:17px;
+.ftr-links img {
+	height: 17px;
+	width: 17px;
 }
-.s-ftr a
-{
-	font-size:20px;
-	font-weight:bolder;
-	
+.s-ftr a {
+	font-size: 20px;
+	font-weight: bolder;
 }
 
-.ftr-crt
-{
-	display:grid;
-	grid-template-columns: 3fr repeat(12,1fr);
-	margin:1% 5% 1% 5%;
-	font-size:13px;
-	grid-gap:2px;
-	
+.ftr-crt {
+	display: grid;
+	grid-template-columns: 3fr repeat(12, 1fr);
+	margin: 1% 5% 1% 5%;
+	font-size: 13px;
+	grid-gap: 2px;
 }
-.ftr-crt a{
-	color:#544d4d;
+.ftr-crt a {
+	color: #544d4d;
 }
-.ftr-crt a:hover{
+.ftr-crt a:hover {
 	text-decoration: underline;
 }
