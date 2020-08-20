@@ -35,6 +35,11 @@
 	margin-left: 25%;
 }
 
+.margin {
+	margin-right: 20%;
+	transform: scale(0.9);
+}
+
 .logo {
 	width: 40%;
 	margin: 0 auto;
@@ -94,6 +99,12 @@
 }
 .d-icons {
 	justify-content: space-between;
+	margin-right: 20%;
+}
+
+#grey {
+	color: grey;
+	font-size: 14px;
 }
 .icons {
 	margin-right: 20px;
@@ -146,7 +157,7 @@
 	grid-gap: 5px;
 	background-image: url("images/wholegrid.png");
 	background-repeat: no-repeat;
-	background-size:contain;
+	background-size: contain;
 }
 
 .grid1 img {
@@ -156,15 +167,13 @@
 	height: 100%;
 	width: 100%;
 	padding-top: 2%;
-	margin-top:100%;
+	margin-top: 100%;
 }
-.griditem1
-{
+.griditem1 {
 	height: 100%;
 	width: 100%;
 	padding-top: 2%;
-	margin-top:20%;
-
+	margin-top: 20%;
 }
 .section-3 hr {
 	margin-left: 0;
@@ -174,6 +183,12 @@
 .cosmos {
 	width: 100%;
 	Height: 50%;
+}
+
+.vid-para {
+	margin: 1px;
+	font-size: 16px;
+	width: 85%;
 }
 
 .vid-para a {
@@ -188,7 +203,6 @@
 	top: 1700px;
 	right: 250px;
 	width: 13%;
-	
 }
 
 .aside h2 {
@@ -251,21 +265,17 @@
 	padding-left: 50%;
 	padding-top: 10px;
 }
-.ftr-hd
-{
-	justify-content:space-between;
+.ftr-hd {
+	justify-content: space-between;
 }
-.ftr-hd img
-{
+.ftr-hd img {
 	width: 25%;
 	margin: 0 auto;
 }
-.ftr-links
-{
+.ftr-links {
 	justify-content: space-between;
-	padding: 1% 10%  1% 10%;
+	padding: 1% 10% 1% 10%;
 }
-.ftr-links
-{
+.ftr-links {
 	text-decoration: none;
 }
