@@ -238,3 +238,21 @@
 	padding-left: 50%;
 	padding-top: 10px;
 }
+.ftr-hd
+{
+	justify-content:space-between;
+}
+.ftr-hd img
+{
+	width: 25%;
+	margin: 0 auto;
+}
+.ftr-links
+{
+	justify-content: space-between;
+	padding: 1% 10%  1% 10%;
+}
+.ftr-links
+{
+	text-decoration: none;
+}
