@@ -27,7 +27,7 @@ Github: @Lidya1234 Linkedin: https://www.linkedin.com/in/lidya-ghebreigziabher-4
 
 👤 Author2
 
-Github: @Abhigyan001 Linkedin: https://www.linkedin.com/in/abhigyan-mahanta-b49799145/
+Github: @Abhigyan001 Linkedin: https://www.linkedin.com/in/abhigyan001/
 
 🤝 Contributing Contributions, issues and feature requests are welcome!
 
